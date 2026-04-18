@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Nature 👋
 
-<!--
-**Realnature1/Realnature1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
 
-Here are some ideas to get you started:
+Nature is a Quality Assurance Tester with a sharp eye for detail and a healthy amount of suspicion for anything marked “working fine.”  
+She focuses on testing web and mobile applications, making sure products behave the way they should before they get into users’ hands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With experience in manual testing, bug reporting, test case writing, and API testing, Nature enjoys breaking things professionally so teams can fix them confidently. She also writes **Cypress** tests and is currently growing her skills in **Playwright**.
+
+She has a strong interest in:
+
+- Manual Testing  
+- Functional, Regression, and Exploratory Testing  
+- Writing clear and structured Test Cases  
+- Bug Reporting and Defect Tracking  
+- API Testing with Postman  
+- Test Automation with Cypress  
+- Learning Playwright  
+
+## Fun Fact:
+
+I break things before users do — professionally.
+
+## Tools & Skills:
+
+- Cypress  
+- Playwright *(beginner level)*  
+- Postman  
+- Jira  
+- Asana  
+- Swagger  
+- Manual Testing  
+- API Testing  
+- Bug Documentation  
